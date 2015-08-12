@@ -1,0 +1,10 @@
+.notice_error {
+    cursor: pointer;
+    color: rgb(221, 0, 0);
+    height: 30px;
+    background: #FFEDED;
+    border: solid thin #DD0000;
+    border-radius: 5px;
+    padding: 10px;
+    display: block;
+}
